@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:2:1-20:12
+ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:3:7-50
 		INJECTED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml
@@ -31,25 +31,33 @@ uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:8:5-81
 	android:name
 		ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:9:22-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:10:22-76
 application
-ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:10:5-19:19
+ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:12:5-21:19
 	android:label
-		ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:10:48-80
+		ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:12:48-80
 	android:icon
-		ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:10:18-47
+		ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:12:18-47
 activity#com.example.android.photobyintent.PhotoIntentActivity
-ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:11:9-17:20
+ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:13:9-19:20
 	android:label
-		ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:12:19-51
+		ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:14:19-51
 	android:name
-		ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:11:19-54
+		ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:13:19-54
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:13:13-16:29
+ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:15:13-18:29
 action#android.intent.action.MAIN
-ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:15:17-77
+ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:15:27-74
+		ADDED from /Users/xiangkundai/Google Drive/0Courses/APT 2015/PhotoIntentActivity1/app/src/main/AndroidManifest.xml:17:27-74
