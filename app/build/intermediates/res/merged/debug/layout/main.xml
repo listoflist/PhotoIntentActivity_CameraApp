@@ -33,4 +33,4 @@
       android:visibility="invisible"
       android:id="@+id/videoView1" />
 </LinearLayout>
-<!-- From: file:/Users/xiangkundai/Google%20Drive/0Courses/APT%202015/PhotoIntentActivity1/app/src/main/res/layout/main.xml -->
+<!-- From: file:/Users/xiangkundai/Google%20Drive/0Courses/APT%202015/PhotoIntentActivity_CameraApp/app/src/main/res/layout/main.xml -->
